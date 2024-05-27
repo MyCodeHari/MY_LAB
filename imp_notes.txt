@@ -1,0 +1,16 @@
+[Build an Email Vaidation using String functions]
+
+Points to be noted:
+     -Only single @ sign in an individual email
+     -No Uppercase alphabets in an individual email
+     -only "underscroll" / "dot" are only special characters that are supposed to be allowed
+     -no spaces are allowed in between an individual email
+     -an individual email cannot start with a integer/digit
+
+Use string functions:
+     -isalpha()
+     -isspace()
+     -isdigit()
+Methods:
+     -.count()
+     -.upper()
